@@ -1,0 +1,25 @@
+{
+  "name": "meteor-server-oauth2",
+  "version": "1.0.0",
+  "description": "Make meteor multi-server method call secured",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostanos/meteor-server-oauth2.git"
+  },
+  "keywords": [
+    "meteor",
+    "multi server",
+    "secure",
+    "oauth2"
+  ],
+  "author": "Kostya Kostyushko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostanos/meteor-server-oauth2/issues"
+  },
+  "homepage": "https://github.com/Kostanos/meteor-server-oauth2#readme"
+}
